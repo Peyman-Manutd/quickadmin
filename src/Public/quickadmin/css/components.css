@@ -1,4 +1,19 @@
 /***
+Add Yekan Font (For Persian Language)
+***/
+@font-face{
+  font-family:'Byekan';
+  src:url('../fonts/Yekan.eot');
+  src:url('../fonts/Yekan.eot') format('embedded-opentype'),
+  url('../fonts/Yekan.woff') format('woff'),
+  url('../fonts/Yekan.ttf') format('truetype'),
+  url('../fonts/Yekan.svg') format('svg');
+  font-weight:normal;
+  font-style:normal
+}
+/******/
+
+/***
 Rounded corners reset
 ***/
 /* Reset rounded corners for all elements */
